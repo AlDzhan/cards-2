@@ -104,3 +104,13 @@ section{
 .coffee .sec_tit{
 	margin-bottom: 25px;
 }
+
+.ingridients_content{
+	max-width: 475px;
+}
+.ingridients_img{
+	max-width: 610px;
+}
+.coffee .sec_tit{
+	margin-bottom: 15px;
+}
